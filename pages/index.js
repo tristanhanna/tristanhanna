@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import { GlobalStyle } from '../components/GlobalStyle';
+import { GlobalStyle } from './components/GlobalStyle';
 import { motion } from 'framer-motion';
 import { Linkedin, Github, WalletFill} from 'react-bootstrap-icons';
 
